@@ -4,33 +4,33 @@
 
 ### DaxCoin
 
-[0xA283460A0c390b34d5eC07e23C90594319df286B](https://etherscan.io/address/0xA283460A0c390b34d5eC07e23C90594319df286B)
+[0x09B492e0012FfEF7875C080bEEd922004A976d3a](https://etherscan.io/address/0x09B492e0012FfEF7875C080bEEd922004A976d3a)
 
-[[ contract ]](https://etherscan.io/address/0xA283460A0c390b34d5eC07e23C90594319df286B)
-[[ implementation ]](https://etherscan.io/address/0xAF7ceb0240f305234faB7370eA08B16e7CEE89d4)
-[[ token tracker ]](https://etherscan.io/token/0xA283460A0c390b34d5eC07e23C90594319df286B)
+[[ contract ]](https://etherscan.io/address/0x09B492e0012FfEF7875C080bEEd922004A976d3a)
+[[ implementation ]](https://etherscan.io/address/0x76275931e1295cF98eC1eE3887A55a5e738952aC)
+[[ token tracker ]](https://etherscan.io/token/0x09B492e0012FfEF7875C080bEEd922004A976d3a)
 
 ### DaxToken
 
-[0x92F5343294Da82F368fC00812BBe4F79BaF50b01](https://etherscan.io/address/0x92F5343294Da82F368fC00812BBe4F79BaF50b01)
+[0x86551023C4ba4BD7EE782e47D47aC521b41afa83](https://etherscan.io/address/0x86551023C4ba4BD7EE782e47D47aC521b41afa83)
 
-[[ contract ]](https://etherscan.io/address/0x92F5343294Da82F368fC00812BBe4F79BaF50b01)
-[[ implementation ]](https://etherscan.io/address/0xA05a972aEA7f4491cb77069588e3B552930D1CC1)
-[[ token tracker ]](https://etherscan.io/token/0x92F5343294Da82F368fC00812BBe4F79BaF50b01)
+[[ contract ]](https://etherscan.io/address/0x86551023C4ba4BD7EE782e47D47aC521b41afa83)
+[[ implementation ]](https://etherscan.io/address/0x3844f56199EDbECe188E922036ffBa7EB842744D)
+[[ token tracker ]](https://etherscan.io/token/0x86551023C4ba4BD7EE782e47D47aC521b41afa83)
 
 ### DaxMap
 
-[0x1e5eb8EFaaa2fFd465dAb690625Ef704E0265aae](https://etherscan.io/address/0x1e5eb8EFaaa2fFd465dAb690625Ef704E0265aae)
+[0xA02a34940a4f54C087800D679b5E34AD4D6FC5b4](https://etherscan.io/address/0xA02a34940a4f54C087800D679b5E34AD4D6FC5b4)
 
-[[ contract ]](https://etherscan.io/address/0x1e5eb8EFaaa2fFd465dAb690625Ef704E0265aae)
-[[ implementation ]](https://etherscan.io/address/0x2eF0480Bf8d4C215dCaF5733e0bC7288CE6E6bEB)
+[[ contract ]](https://etherscan.io/address/0xA02a34940a4f54C087800D679b5E34AD4D6FC5b4)
+[[ implementation ]](https://etherscan.io/address/0xee6057Eeb8cDf1f783559c28eD66f3aDc3194219)
 
 ### DaxMining
 
-[0xf5874E983bfE50d7557B9b47D57EF5d34949e5a2](https://etherscan.io/address/0xf5874E983bfE50d7557B9b47D57EF5d34949e5a2)
+[0x3C1C9DE0b0CF802C9c6F3164a98fCe85768B74F2](https://etherscan.io/address/0x3C1C9DE0b0CF802C9c6F3164a98fCe85768B74F2)
 
-[[ contract ]](https://etherscan.io/address/0xf5874E983bfE50d7557B9b47D57EF5d34949e5a2)
-[[ implementation ]](https://etherscan.io/address/0xD8103739295DCdCa8345973d17Ae25e4eEb5ddC1)
+[[ contract ]](https://etherscan.io/address/0x3C1C9DE0b0CF802C9c6F3164a98fCe85768B74F2)
+[[ implementation ]](https://etherscan.io/address/0xd0a9fe0ad2cE75422fF0a9d15db9D283695CDb96)
 
 ## Ethereum - Ropsten Test Network
 
