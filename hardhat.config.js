@@ -14,11 +14,11 @@ module.exports = {
   },
   networks: {
     mainnet: {
-      url: "https://mainnet.infura.io/v3/7a4e3713d7224de18fc39e73ff0b8b66",
-      accounts: [""]
+      url: "${ETHEREUM_MAINNET_URL}",
+      accounts: ["${ETHEREUM_MAINNET_ACCOUNT_1}"]
     }
   },
   etherscan: {
-    apiKey: ""
+    apiKey: "${ETHERSCAN_API_KEY}"
   }
 };
