@@ -47,7 +47,7 @@ contract DaxToken is
         _grantRole(UPGRADER_ROLE, sender);
 
         _tokenId.increment();
-        _defaultTokenURI = "ipfs://QmRTtu27nYPfWS1d3n7Y5Hfiv4zW4YD5iisGBNJWsXMEAr";
+        _defaultTokenURI = "ipfs://QmYmHxNxhdVwZAhE1soPgLCiLmj2a8PMyzFPAozsHFXxYM";
     }
 
     function creatorOf(uint256 tokenId)
