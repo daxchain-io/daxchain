@@ -1,0 +1,13 @@
+{
+    "background_color": "FFFFFF",
+    "description": "The open non-fungible token used for fun, education, experimentation, and utility.",
+    "external_url": "https://github.com/daxchain-io",
+    "image": "ipfs://QmQEEseGDLdg7FznLKsYGAufaCNi3RuvuT4qiDpgayeqZm",
+    "name": "DaxToken",
+    "attributes": [
+        {
+            "trait_type": "author",
+            "value": "daxchain"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+.deps
+.DS_Store
+artifacts
+tmp
+cache
+node_modules
