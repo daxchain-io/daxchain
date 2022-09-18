@@ -6,43 +6,43 @@
     "name": "DaxToken",
     "attributes": [
         {
-            "trait_type": "Author",
+            "trait_type": "author",
             "value": "DaxChain"
         },
         {
-            "trait_type": "Contract Address - Coin",
+            "trait_type": "contract-address/coin",
             "value": "0x09B492e0012FfEF7875C080bEEd922004A976d3a"
         },
         {
-            "trait_type": "Contract Address - Map",
+            "trait_type": "contract-address/map",
             "value": "0xA02a34940a4f54C087800D679b5E34AD4D6FC5b4"
         },
         {
-            "trait_type": "Contract Address - Mining",
+            "trait_type": "contract-address/mining",
             "value": "0x3C1C9DE0b0CF802C9c6F3164a98fCe85768B74F2"
         },
         {
-            "trait_type": "Contract Address - Token",
+            "trait_type": "contract-address/token",
             "value": "0x86551023C4ba4BD7EE782e47D47aC521b41afa83"
         },
         {
-            "trait_type": "DaxMining / Currently Mining", 
-            "display_type": "number", 
-            "value": 1000000
-        },
-        {
-            "trait_type": "DaxMining / Improvements", 
+            "trait_type": "daxmining/improvements", 
             "display_type": "boost_number", 
-            "value": 85
+            "value": 99
         },
         {
-            "trait_type": "DaxMining / Lifetime Mined", 
+            "trait_type": "daxmining/mined", 
             "display_type": "number", 
             "value": 1000000
         },
         {
-            "trait_type": "DaxMining / Mining",
+            "trait_type": "daxmining/mining",
             "value": "True"
-        }
+        },
+        {
+            "trait_type": "daxmining/total-mined", 
+            "display_type": "boost_number", 
+            "value": 1000000
+        },
     ]
 }
