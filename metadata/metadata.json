@@ -1,6 +1,6 @@
 {
     "background_color": "000000",
-    "description": "The open non-fungible token used for fun, education, experimentation, and utility.",
+    "description": "The open non-fungible token used for fun,education,experimentation,and utility.",
     "external_url": "https://daxchain.io",
     "image": "ipfs://QmcifXX4WU5kUyVcLePo3LAM3UYHKZbGUbHpQCX6pgHvh2",
     "name": "DaxToken",
@@ -26,13 +26,13 @@
             "value": "0x86551023C4ba4BD7EE782e47D47aC521b41afa83"
         },
         {
-            "trait_type": "daxmining/improvements", 
-            "display_type": "number", 
+            "trait_type": "daxmining/improvements",
+            "display_type": "boost_number",
             "value": 99
         },
         {
-            "trait_type": "daxmining/mined", 
-            "display_type": "number", 
+            "trait_type": "daxmining/mined",
+            "display_type": "boost_number",
             "value": 1000000
         },
         {
@@ -40,8 +40,8 @@
             "value": "True"
         },
         {
-            "trait_type": "daxmining/total-mined", 
-            "display_type": "boost_number", 
+            "trait_type": "daxmining/total-mined",
+            "display_type": "boost_number",
             "value": 1000000
         }
     ]
