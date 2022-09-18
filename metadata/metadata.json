@@ -10,6 +10,10 @@
             "value": "Metadata API is coming soon!"
         },
         {
+            "trait_type": "id",
+            "value": "0"
+        },
+        {
             "trait_type": "author",
             "value": "DaxChain"
         },
@@ -28,6 +32,18 @@
         {
             "trait_type": "contract/token",
             "value": "0x86551023C4ba4BD7EE782e47D47aC521b41afa83"
+        },
+        {
+            "trait_type": "map/destination/x",
+            "value": "00000000000"
+        },
+        {
+            "trait_type": "map/destination/y",
+            "value": "00000000000"
+        },
+        {
+            "trait_type": "map/destination/z",
+            "value": "00000000000"
         },
         {
             "trait_type": "map/in-motion",
@@ -51,6 +67,11 @@
         },
         {
             "trait_type": "mining/improvements",
+            "display_type": "boost_number",
+            "value": 9999999999
+        },
+        {
+            "trait_type": "mining/block-reward",
             "display_type": "boost_number",
             "value": 9999999999
         },
