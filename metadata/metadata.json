@@ -26,7 +26,7 @@
             "value": "0x86551023C4ba4BD7EE782e47D47aC521b41afa83"
         },
         {
-            "trait_type": "mining",
+            "trait_type": "mining/enabled",
             "value": "True"
         },
         {
@@ -40,7 +40,7 @@
             "value": 345345
         },
         {
-            "trait_type": "mining/total-mined",
+            "trait_type": "mining/total",
             "display_type": "boost_number",
             "value": 15439876543
         }
