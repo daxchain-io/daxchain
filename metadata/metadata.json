@@ -6,6 +6,10 @@
     "name": "DaxToken",
     "attributes": [
         {
+            "trait_type": "_message",
+            "value": "Metadata API is coming soon!"
+        },
+        {
             "trait_type": "author",
             "value": "DaxChain"
         },
@@ -31,15 +35,15 @@
         },
         {
             "trait_type": "map/location/x",
-            "value": "1000000000"
+            "value": "00000000000"
         },
         {
             "trait_type": "map/location/y",
-            "value": "1000000000"
+            "value": "00000000000"
         },
         {
             "trait_type": "map/location/z",
-            "value": "1000000000"
+            "value": "00000000000"
         },
         {
             "trait_type": "mining/enabled",
@@ -48,17 +52,17 @@
         {
             "trait_type": "mining/improvements",
             "display_type": "boost_number",
-            "value": 2000000000
+            "value": 9999999999
         },
         {
             "trait_type": "mining/current",
             "display_type": "boost_number",
-            "value": 345345
+            "value": 9999999999
         },
         {
             "trait_type": "mining/total",
             "display_type": "boost_number",
-            "value": 15439876543
+            "value": 9999999999
         }
     ]
 }
