@@ -10,19 +10,19 @@
             "value": "DaxChain"
         },
         {
-            "trait_type": "contract-address/coin",
+            "trait_type": "contract/coin",
             "value": "0x09B492e0012FfEF7875C080bEEd922004A976d3a"
         },
         {
-            "trait_type": "contract-address/map",
+            "trait_type": "contract/map",
             "value": "0xA02a34940a4f54C087800D679b5E34AD4D6FC5b4"
         },
         {
-            "trait_type": "contract-address/mining",
+            "trait_type": "contract/mining",
             "value": "0x3C1C9DE0b0CF802C9c6F3164a98fCe85768B74F2"
         },
         {
-            "trait_type": "contract-address/token",
+            "trait_type": "contract/token",
             "value": "0x86551023C4ba4BD7EE782e47D47aC521b41afa83"
         },
         {
