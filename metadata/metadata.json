@@ -26,6 +26,22 @@
             "value": "0x86551023C4ba4BD7EE782e47D47aC521b41afa83"
         },
         {
+            "trait_type": "map/in-motion",
+            "value": "False"
+        },
+        {
+            "trait_type": "map/location/x",
+            "value": "1000000000"
+        },
+        {
+            "trait_type": "map/location/y",
+            "value": "1000000000"
+        },
+        {
+            "trait_type": "map/location/z",
+            "value": "1000000000"
+        },
+        {
             "trait_type": "mining/enabled",
             "value": "True"
         },
@@ -35,7 +51,7 @@
             "value": 2000000000
         },
         {
-            "trait_type": "mining/mining",
+            "trait_type": "mining/current",
             "display_type": "boost_number",
             "value": 345345
         },
