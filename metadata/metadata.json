@@ -6,8 +6,13 @@
     "name": "DaxToken",
     "attributes": [
         {
-            "trait_type": "author",
+            "trait_type": "Author",
             "value": "DaxChain"
+        },
+        {
+            "display_type": "number", 
+            "trait_type": "Improvements", 
+            "value": 200.5060
         }
     ]
 }
