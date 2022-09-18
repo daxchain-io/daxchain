@@ -27,7 +27,7 @@
         },
         {
             "trait_type": "daxmining/improvements", 
-            "display_type": "boost_number", 
+            "display_type": "number", 
             "value": 99
         },
         {
@@ -43,6 +43,6 @@
             "trait_type": "daxmining/total-mined", 
             "display_type": "boost_number", 
             "value": 1000000
-        },
+        }
     ]
 }
